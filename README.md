@@ -62,9 +62,7 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/ichat.git
+
 cd ichat
 Install the required dependencies:
 
