@@ -38,27 +38,6 @@ JavaScript: The programming language used for implementing client-side logic.
 Project Structure
 The project is organized into the following directories and files:
 
-php
-Copy code
-iChat/
-│
-├── nodeServer/
-│   ├── index.js            # Node.js server file
-│
-├── public/
-│   ├── css/
-│   │   ├── style.css       # Stylesheet for the application
-│   │
-│   ├── js/
-│   │   ├── client.js       # Client-side JavaScript file
-│   │
-│   ├── logo.png            # Logo image file
-│   ├── ting.mp3            # Audio file for notifications
-│   ├── index.html          # HTML file for the application
-│
-└── README.md               # Project README file
-Installation and Setup
-To run this project locally, follow these steps:
 
 Clone the repository:
 
